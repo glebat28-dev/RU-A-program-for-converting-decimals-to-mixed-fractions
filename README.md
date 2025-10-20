@@ -10,7 +10,7 @@
 
 
 ## ⬇️ Установка
-1. Скачайте [последнюю Release версию](https://github.com/Gleb982/RU-A-program-for-converting-decimals-to-mixed-fractions/releases/lastest) и распакуйте в любое удобное для вас место
+1. Скачайте [последнюю Release версию](https://github.com/glebat28-dev/RU-A-program-for-converting-decimals-to-mixed-fractions/releases/lastest) и распакуйте в любое удобное для вас место
 2. Убедитесь, что у вас установлен **Python версии 3.x.x - 3.12**. Если не установлен, сделайте это, перейдя по ссылке https://www.python.org/downloads/release/python-31210 (при установке нажмите на пункт `Add to PATH`)
 3. Откройте `install_requirements.bat` и дождитесь установки всех необходимых для работы библиотек, а после закройте окно
 4. Чтобы запустить бота, откройте запускатор `start.bat`
