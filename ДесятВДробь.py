@@ -1,5 +1,7 @@
 from fractions import Fraction
 
+from updater import check_for_updates
+
 def decimal_to_mixed_fraction(decimal_number):
     fraction = Fraction(decimal_number).limit_denominator()
     whole = abs(fraction.numerator) // fraction.denominator
@@ -43,6 +45,7 @@ def improper_fraction_to_decimal(improper_fraction):
 
 print("👋 Привет! Добро пожаловать в программу преобразования дробей! 😊")
 print("Пример смешанной дроби: 2 3/4 (это два целых и три четверти)")
+check_for_updates()
 
 while True:
     user_input = input("Введите десятичную дробь, смешанную дробь или неправильную дробь (или 'exit' для выхода): ").replace(',', '.')

@@ -1,3 +1,3 @@
 @echo off
-pip install Fraction
+pip install -r requirements.txt
 pause

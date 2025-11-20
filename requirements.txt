@@ -1,1 +1,7 @@
-Fraction
+Fractions==2.2.0
+io==0.0.1
+zipfile2==0.0.12
+requests==2.32.5
+os-sys==2.1.4
+shutil-ext==0.1.0
+colorama==0.4.6
